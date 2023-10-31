@@ -14,6 +14,7 @@
     - [Setup](#setup)
     - [Install](#install)
   - [👥 Authors](#-authors)
+  - [🔭 Future Features](#-future-features)
   - [🤝 Contributing](#-contributing)
   - [⭐️ Show Your Support](#️-show-your-support)
   - [🙏 Acknowledgments](#-acknowledgments)
@@ -51,7 +52,6 @@ In order to run this project, you need to have the following installed:
 
 - **React:** React is a JavaScript library used for building the frontend of the application. You can learn more about React at [React](https://react.dev/).
 
-
 ### Setup
 
 Clone this repository to your desired folder:
@@ -81,6 +81,14 @@ it will install the required gemfile for running the project
 
 - GitHub: [Meryem Sanem Küçükbayram](https://github.com/meryemsanem)
 - LinkedIn: [Meryem Sanem Küçükbayram](https://www.linkedin.com/in/meryemsanemkucukbayram/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- **Styling**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
