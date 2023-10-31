@@ -23,7 +23,7 @@
 
 ## 📖 React App <a name="about-project"></a>
 
-**React App** is the user-facing component of the application. It integrates with the Rails API, making asynchronous calls to fetch and display random greetings to users..<br>**Here is the [link](https://github.com/meryemsanem/hello-react-back-end) for the backend.**
+**React App** is the user-facing component of the application. It integrates with the Rails API, making asynchronous calls to fetch and display random greetings to users..<br>**Here is the [link](https://github.com/meryemsanem/hello-rails-back-end) for the backend.**
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -57,7 +57,7 @@ In order to run this project, you need to have the following installed:
 Clone this repository to your desired folder:
 
 ```bash
-git clone https://github.com/meryemsanem/hello-rails-front-end.git
+git clone https://github.com/meryemsanem/hello-react-front-end.git
 ```
 
 ### Install
@@ -65,7 +65,7 @@ git clone https://github.com/meryemsanem/hello-rails-front-end.git
 Install this project with:
 
 ```bash
-  cd hello-rails-front-end
+  cd hello-react-front-end
   npm install
 ```
 
@@ -90,7 +90,7 @@ it will install the required gemfile for running the project
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/meryemsanem/hello-rails-front-end/issues).
+Feel free to check the [issues page](https://github.com/meryemsanem/hello-react-front-end/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
